@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Samples/XR Interaction Toolkit/3.0.3/Starter Assets/DemoScene.unity
     guid: 319dafa5c80f29f428dc1e0d03f04177
+  - enabled: 1
+    path: Assets/AK Studio Art/Art Gallery Vol.6/Scenes/Demo.unity
+    guid: d87ccb7465c217d4f8ae58117b9197f9
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260, type: 2}
     Unity.XR.PXR.Settings: {fileID: 11400000, guid: 6700b334a20b2b049b706dcb33794e57, type: 2}
